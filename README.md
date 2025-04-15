@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👩‍💻 Hallo, ich bin Mariia!
 
-<!--
-**klukva-codes/klukva-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich mache einen beruflichen Umstieg in die IT und spezialisiere mich auf Python, Webentwicklung und Automatisierung.  
+Ich lerne täglich und setze mein Wissen direkt in kleinen Projekten um – einige davon findest du hier auf meinem GitHub.
 
-Here are some ideas to get you started:
+Mein Ziel ist eine Ausbildung zur **Fachinformatikerin – Anwendungsentwicklung**, bei der ich meine praktischen Fähigkeiten weiter ausbauen und in echten Projekten mitarbeiten kann.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projekte
+
+- 📝 [Flask Blog mit Authentifizierung](https://github.com/klukva-codes/Flask-Blog-with-Authentication)  
+  Voll funktionsfähiger Blog mit Benutzerverwaltung und Beitragseditor  
+  *Technologien: Python, Flask, SQLAlchemy, Jinja, WTForms, Bootstrap*
+
+- 🎵 [Dub Techno Playlist Generator](https://github.com/klukva-codes/spotify-playlist-dub-techno)  
+  Web-Scraper + Spotify-API zur automatisierten Playlist-Erstellung  
+  *Technologien: Python, BeautifulSoup, Spotipy, Requests*
+
+- 🔐 [Passwort-Manager mit GUI](https://github.com/klukva-codes/password-manager)  
+  Desktop-Tool zum sicheren Speichern und Generieren von Passwörtern  
+  *Technologien: Python, Tkinter, JSON, pyperclip*
+
+## 💡 Mehr über mich
+- Kreativer Hintergrund (Innenarchitektur B.A.)
+- Selbstständiges Lernen mit Fokus auf Praxis
+- Zielorientiert, strukturiert und motiviert
+
+📫 Kontakt: shkileva.mm@gmail.com
