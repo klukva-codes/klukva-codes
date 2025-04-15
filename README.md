@@ -24,4 +24,4 @@ Mein Ziel ist eine Ausbildung zur **Fachinformatikerin – Anwendungsentwicklung
 - Selbstständiges Lernen mit Fokus auf Praxis
 - Zielorientiert, strukturiert und motiviert
 
-📫 Kontakt: shkileva.mm@gmail.com
+📫 Kontakt: ichbinklukva@gmail.com
